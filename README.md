@@ -4,9 +4,9 @@ _This repository contains the Jupyter Notebook file "Used Car Pricing Analysis" 
 **Overview and Aims**
 
 In this project, I explored a range of data analysis techniques in python to predict used car prices, utilising a number of libraries including NumPy, Pandas, Matplotlib, Seaborn and Scikit-learn.
+
 This project aims to showcase my skills in data wrangling, data visualisation, statistical analysis and machine learning in Python.
 
-spotting and replacing missing data, data normalisation, binning, coefficient and p-value calculations.
 
 **Course Overview**
 
