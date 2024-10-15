@@ -11,7 +11,7 @@ This project aims to showcase my skills in data wrangling, data visualisation, s
 **Course Overview**
 
 This project covers a wide range of topics in data analysis including;
-1. Data collection and cleaning/ wrangling
+1. Data collection/Cleansing/Wrangling
 - Adding headers
 - Replacing missing data
 - Dropping columns
